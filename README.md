@@ -6,11 +6,13 @@ Kotlin is a Java-based language used for programming [Android phones](https://de
 ## Running the Kotlin Jupyter notebook from the web
 This runs the notebook from the web. 
 
-- Open the Kotlin Jupyter notebook <a target="_blank" href="https://mybinder.org/v2/gh/kushnertodd/kotlin-programming/main">web page</a> (open with `ctrl-click`). 
+- Open the Kotlin Jupyter notebook <a target="_blank" href="https://mybinder.org/v2/gh/kushnertodd/kotlin-programming/main">web page</a> (open with `ctrl-click`).
+- Open `Introduction-to-Kotlin.ipynb` from the left side of the screen.
 - Select `Using Jupyter` for instructions on using the Jupyter notebook.
 - Running the notebook
-  - Run the code in a code cell by selecting the cell and typing `Shift-Enter`, or selecting the `Cell/Run Cells` menu item.
+  - Run the code in a code cell by selecting the cell and clicking the run icon &#11208; on the toolbar, or selecting the `Run/Run Selected Cells` menu item (try twice if it does not run the first time).
   - The output of the code will appear below the cell.
+  - If prompted to `Save your work`, select `Discard`.
 
 
 ## Running the Kotlin Jupyter notebook locally
