@@ -8,7 +8,8 @@ This runs the notebook from the web.
 
 - Open this web page  
 https://mybinder.org/v2/gh/kushnertodd/kotlin-programming/HEAD?labpath=Introduction-to-Kotlin.ipynb
-
+https://mybinder.org/v2/gh/kushnertodd/kotlin-programming/main?labpath=Introduction-to-Kotlin.ipynb
+- Select `Using Jupyter` for instructions on using the Jupyter notebook
 
 ## Running the Kotlin Jupyter notebook locally
 The Kotlin Jupyter notebook can be run locally on a PC using Anaconda.
