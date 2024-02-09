@@ -7,10 +7,7 @@ Kotlin is a Java-based language used for programming [Android phones](https://de
 This runs the notebook from the web. 
 
 - Open this web page  
-https://mybinder.org/v2/gh/kushnertodd/kotlin-programming/main
-- Select this file  
-Introduction-to-Kotlin.ipynb
-- Open the file `Introduction-to-Kotlin.ipynb` from the directory where you installed the notebook. 
+https://mybinder.org/v2/gh/kushnertodd/kotlin-programming/HEAD?labpath=Introduction-to-Kotlin.ipynb
 
 
 ## Running the Kotlin Jupyter notebook locally
