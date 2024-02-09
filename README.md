@@ -1,7 +1,7 @@
 # kotlin-programming
 
 
-## Running the Python Jupyter notebook locally
+## Running the Kotlin Jupyter notebook locally
 
 - This runs the notebook from the web. It's better to run it locally if this does not work.  
 https://mybinder.org/v2/gh/kushnertodd/kotlin-programming/main
