@@ -12,7 +12,7 @@ This runs the notebook from the web.
 - Running the notebook
   - Run the code in a code cell by selecting the cell and clicking the run icon &#11208; on the toolbar, or selecting the `Run/Run Selected Cells` menu item (try twice if it does not run the first time).
   - The output of the code will appear below the cell.
-  - If prompted to `Save your work`, select `Discard`.
+  - If prompted to `Save your work` on closing a page, select `Discard`.
 
 
 ## Running the Kotlin Jupyter notebook locally
