@@ -30,7 +30,7 @@ https://github.com/kushnertodd/kotlin-programming
 
 These are resources for more advanced Kotlin programming.
 
-- <a href="http://www.amazon.com/dp/161729960X/ref=nosim?tag=toddkushnerll-20"><b> Kotlin in Action</b></a> by Roman Elizarov, Svetlana Isakova, Sebastian Aigner<br>
+- <a href="http://www.amazon.com/dp/161729960X/ref=nosim?tag=toddkushnerll-20"><b> Kotlin in Action</b></a> by Roman Elizarov, Svetlana Isakova, Sebastian Aigner<br>
 
 - <a href="http://www.amazon.com/dp/1491996692/ref=nosim?tag=toddkushnerll-20"><b>Head First Kotlin: A Brain-Friendly Guide</b></a> by Dawn Griffiths, David Griffiths<br>
 
