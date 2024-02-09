@@ -25,12 +25,12 @@ https://github.com/kushnertodd/kotlin-programming
 
 These are resources for more advanced Kotlin programming.
 
-<a href="http://www.amazon.com/dp/161729960X/ref=nosim?tag=toddkushnerll-20"><b> Kotlin in Action</b></a>. by Roman Elizarov, Svetlana Isakova, Sebastian Aigner<br>
+<a href="http://www.amazon.com/dp/161729960X/ref=nosim?tag=toddkushnerll-20"><b> Kotlin in Action</b></a>, by Roman Elizarov, Svetlana Isakova, Sebastian Aigner<br>
 
-<a href="http://www.amazon.com/dp/1491996692/ref=nosim?tag=toddkushnerll-20"><b>Head First Kotlin: A Brain-Friendly Guide</b>. by Dawn Griffiths, David Griffiths</a><br>
+<a href="http://www.amazon.com/dp/1491996692/ref=nosim?tag=toddkushnerll-20"><b>Head First Kotlin: A Brain-Friendly Guide</b></a>, by Dawn Griffiths, David Griffiths<br>
 
-<a href="http://www.amazon.com/dp/B09HRCMLTV/ref=nosim?tag=toddkushnerll-20"><b>Kotlin Programming: The Big Nerd Ranch Guide </b>. by David Greenhalgh, Josh Skeen, Andrew Bailey</a><br>
+<a href="http://www.amazon.com/dp/B09HRCMLTV/ref=nosim?tag=toddkushnerll-20"><b>Kotlin Programming: The Big Nerd Ranch Guide </b></a>, by David Greenhalgh, Josh Skeen, Andrew Bailey<br>
 
-<a href="http://www.amazon.com/dp/B0CD316B68/ref=nosim?tag=toddkushnerll-20"><b>Atomic Kotlin</b>. by Bruce Eckel, Svetlana Isakova</a><br>
+<a href="http://www.amazon.com/dp/B0CD316B68/ref=nosim?tag=toddkushnerll-20"><b>Atomic Kotlin</b></a>, by Bruce Eckel, Svetlana Isakova<br>
 
 
