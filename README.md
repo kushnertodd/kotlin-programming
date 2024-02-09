@@ -28,7 +28,7 @@ https://github.com/kushnertodd/kotlin-programming
 - Select Launch under Jupyter Notebook. 
 - Open the file `notebooks/Introduction-to-Kotlin.ipynb` from the directory where you installed the notebook. 
 
-These are resources for more advanced Kotlin programming.
+## Resources for more advanced Kotlin programming
 
 - <a href="http://www.amazon.com/dp/161729960X/ref=nosim?tag=toddkushnerll-20"><b> Kotlin in Action</b></a> by Roman Elizarov, Svetlana Isakova, Sebastian Aigner<br>
 
