@@ -10,6 +10,7 @@ This runs the notebook from the web.
 https://mybinder.org/v2/gh/kushnertodd/kotlin-programming/main
 - Select this file  
 Introduction-to-Kotlin.ipynb
+- Open the file `Introduction-to-Kotlin.ipynb` from the directory where you installed the notebook. 
 
 
 ## Running the Kotlin Jupyter notebook locally
