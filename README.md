@@ -9,7 +9,7 @@ This runs the notebook from the web.
 - Open this web page.    
 <a href="https://mybinder.org/v2/gh/kushnertodd/kotlin-programming/main?labpath=Introduction-to-Kotlin.ipynb" target="_blank">
 https://mybinder.org/v2/gh/kushnertodd/kotlin-programming/main?labpath=Introduction-to-Kotlin.ipynb
-<a>  
+</a>
 - Select `Using Jupyter` for instructions on using the Jupyter notebook.
 - Running the notebook
   - Run the code in a code cell by selecting the cell and typing `Shift-Enter`, or selecting the `Cell/Run Cells` menu item.
