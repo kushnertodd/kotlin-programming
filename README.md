@@ -33,7 +33,7 @@ https://github.com/kushnertodd/kotlin-programming
 ## Setting up a Jupyter server on the web
 See these instructions for [setting up a server on Google Cloud](https://towardsdatascience.com/running-jupyter-notebook-in-google-cloud-platform-in-15-min-61e16da34d52).
 - Clone the Github repository `kushnertodd/kotlin-programming` 
-- Start the server from that directory with the file `bin/run_jupyter.sh`
+- Start the server from that directory with the script `bin/run_jupyter.sh`
 
 ## Resources for more advanced Kotlin programming
 
