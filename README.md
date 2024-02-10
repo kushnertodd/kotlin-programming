@@ -30,6 +30,10 @@ https://github.com/kushnertodd/kotlin-programming
 - Select Launch under Jupyter Notebook. 
 - Open the file `notebooks/Introduction-to-Kotlin.ipynb` from the directory where you installed the notebook. 
 
+## Setting up a Jupyter server on the web
+See these instructions for [setting up a server on Google Cloud](https://towardsdatascience.com/running-jupyter-notebook-in-google-cloud-platform-in-15-min-61e16da34d52).
+Clone the Github repository kushnertodd/kotlin-programming and start the server from that directory.
+
 ## Resources for more advanced Kotlin programming
 
 - <a href="http://www.amazon.com/dp/161729960X/ref=nosim?tag=toddkushnerll-20"><b> Kotlin in Action</b></a> by Roman Elizarov, Svetlana Isakova, Sebastian Aigner<br>  
