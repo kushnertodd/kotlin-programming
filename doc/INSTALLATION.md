@@ -56,6 +56,9 @@ or if fails
 ```
 $ sudo anaconda3/bin/pip install --upgrade pip
 $ sudo anaconda3/bin/pip install kotlin-jupyter-kernel
+```
+then
+```
 $ sudo add-apt-repository ppa:webupd8team/java
 $ sudo apt-get update
 $ sudo apt-get install openjdk-8-jre
