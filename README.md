@@ -6,6 +6,7 @@ Kotlin is a Java-based language used for programming [Android phones](https://de
 ## Running the Kotlin Jupyter notebook from the web
 This runs the notebook from the web. 
 
+- [Install Jupyter notebook on Google Cloud](./doc/INSTALLATION.md)
 - Open the Kotlin Jupyter notebook <a target="_blank" href="https://mybinder.org/v2/gh/kushnertodd/kotlin-programming/main">web page</a> (open with `ctrl-click`).
 - Open `Introduction-to-Kotlin.ipynb` from the left side of the screen.
 - Select `Using Jupyter` for instructions on using the Jupyter notebook.
