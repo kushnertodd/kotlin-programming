@@ -19,14 +19,23 @@ This runs the notebook from the web.
 ## Running the Kotlin Jupyter notebook locally
 The Kotlin Jupyter notebook can be run locally on a PC using Anaconda.
 
-- Install Anaconda to run Jupyter locally. Download Anaconda and do a standard install.   
+- Install Anaconda to run Jupyter locally. Download Anaconda and do a standard install for all users.
 
 https://www.anaconda.com/download
 
-- Download the Kotlin Jupyter notebook. Go to this page, select Code and Download Zip. Expand the zip into a directory.  
+- Open the Start Menu
+- Select Anaconda3
+- Right-click on Anaconda Prompt and select More, Run as Administrator
+- Run this command
+
+C:\WINDOWS\system32>conda install kotlin-jupyter-kernel -c jetbrains
+
+- Download the Kotlin Jupyter notebook, from this page 
 
 https://github.com/kushnertodd/kotlin-programming
 
+- Select Code and Download Zip
+- Expand the zip into a directory.  
 - Select Launch Anaconda Navigator from the Start menu. 
 - Select Launch under Jupyter Notebook. 
 - Open the file `notebooks/Introduction-to-Kotlin.ipynb` from the directory where you installed the notebook. 
