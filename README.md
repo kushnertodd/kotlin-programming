@@ -3,19 +3,6 @@
 This is a Jupyter notebook to teach introductory [Kotlin](http://kotlinlang.org/) programming.
 Kotlin is a Java-based language used for programming [Android phones](https://developer.android.com/kotlin).
 
-## Running the Kotlin Jupyter notebook from the web
-This runs the notebook from the web. 
-
-- [Install Jupyter notebook on Google Cloud](./doc/INSTALLATION.md)
-- Open the Kotlin Jupyter notebook <a target="_blank" href="https://mybinder.org/v2/gh/kushnertodd/kotlin-programming/main">web page</a> (open with `ctrl-click`).
-- Open `Introduction-to-Kotlin.ipynb` from the left side of the screen.
-- Select `Using Jupyter` for instructions on using the Jupyter notebook.
-- Running the notebook
-  - Run the code in a code cell by selecting the cell and clicking the run icon &#11208; on the toolbar, or selecting the `Run/Run Selected Cells` menu item (try twice if it does not run the first time, be patient the first time on a page).
-  - The output of the code will appear below the cell.
-  - If prompted to `Save your work` on closing a page, select `Discard`.
-
-
 ## Running the Kotlin Jupyter notebook locally
 The Kotlin Jupyter notebook can be run locally on a PC using Anaconda.
 
@@ -39,6 +26,19 @@ https://github.com/kushnertodd/kotlin-programming
 - Select Launch Anaconda Navigator from the Start menu. 
 - Select Launch under Jupyter Notebook. 
 - Open the file `notebooks/Introduction-to-Kotlin.ipynb` from the directory where you installed the notebook. 
+
+## Running the Kotlin Jupyter notebook from the web
+This runs the notebook from the web. 
+
+- [Install Jupyter notebook on Google Cloud](./doc/INSTALLATION.md)
+- Open the Kotlin Jupyter notebook <a target="_blank" href="https://mybinder.org/v2/gh/kushnertodd/kotlin-programming/main">web page</a> (open with `ctrl-click`).
+- Open `Introduction-to-Kotlin.ipynb` from the left side of the screen.
+- Select `Using Jupyter` for instructions on using the Jupyter notebook.
+- Running the notebook
+  - Run the code in a code cell by selecting the cell and clicking the run icon &#11208; on the toolbar, or selecting the `Run/Run Selected Cells` menu item (try twice if it does not run the first time, be patient the first time on a page).
+  - The output of the code will appear below the cell.
+  - If prompted to `Save your work` on closing a page, select `Discard`.
+
 
 ## Setting up a Jupyter server on the web
 See these instructions for [setting up a server on Google Cloud](https://towardsdatascience.com/running-jupyter-notebook-in-google-cloud-platform-in-15-min-61e16da34d52).
