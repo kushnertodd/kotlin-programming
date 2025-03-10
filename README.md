@@ -14,9 +14,18 @@ https://www.anaconda.com/download
 - Select Anaconda3
 - Right-click on Anaconda Prompt and select More, Run as Administrator
 - Run this command
-
+```
+pip install jupyter
+```
+add to path: 
+```
+C:\Users\kushn\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\Scripts
+C:\ProgramData\anaconda3\Scripts
+```
+run:
+```
 C:\WINDOWS\system32>conda install kotlin-jupyter-kernel -c jetbrains
-
+```
 - Download the Kotlin Jupyter notebook, from this page 
 
 https://github.com/kushnertodd/kotlin-programming
